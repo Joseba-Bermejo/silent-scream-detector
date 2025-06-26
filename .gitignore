@@ -1,0 +1,16 @@
+# Environment variables
+.env
+.txt
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+
+# Jupyter notebooks
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+
+# VS Code settings
+.vscode/*.txt
