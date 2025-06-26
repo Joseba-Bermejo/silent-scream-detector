@@ -1,0 +1,1 @@
+After processing raw media (image/photos), frames labeled as calm will be stored in this folder.

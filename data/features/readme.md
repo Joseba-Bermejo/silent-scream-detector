@@ -1,0 +1,1 @@
+CSV files containing the extracted features will be generated in this folder after media files (images or videos) are processed.

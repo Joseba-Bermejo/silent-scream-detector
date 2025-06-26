@@ -1,0 +1,1 @@
+Upload here media (image/video) representing calm state.
