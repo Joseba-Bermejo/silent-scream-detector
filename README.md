@@ -7,7 +7,7 @@ A lightweight computer vision pipeline that detects **non-verbal signs of distre
 
 ## Objective
 
-To build a system that flags **psychological distress** using visual cues like facial expressions and body posture — without relying on sound. This is particularly useful in **silent or constrained environments** where speech is not an option.
+To build a system that flags **psychological distress** using visual cues like facial expressions and body posture without relying on sound. This is particularly useful in **silent or constrained environments** where speech is not an option.
 
 ---
 
@@ -69,8 +69,8 @@ To build a system that flags **psychological distress** using visual cues like f
 | Metric        | Value |
 |---------------|-------|
 | Accuracy      | 0.88  |
-| Recall (1s)   | 0.91  |
-| Precision (1s)| 0.84  |
+| Recall    | 0.91  |
+| Precision | 0.84  |
 
 > ⚠️ Prioritized **Recall** to minimize missed distress cases (false negatives).
 
