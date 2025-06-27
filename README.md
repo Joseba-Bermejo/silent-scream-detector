@@ -2,6 +2,7 @@
 
 A lightweight computer vision pipeline that detects **non-verbal signs of distress** (e.g., silent screams, tense posture) in webcam or video footage using landmark-based features and machine learning. Includes Slack-based alerting for real-time demo scenarios.
 
+### [Presentation Slides](https://docs.google.com/presentation/d/e/2PACX-1vQhmWQ1SLfojYbiLcY7If5ayfeErvZsO6MqBLRfkdKVUEdwpDEnjC8EBO5mIwgua5Zo0Bz1rwX4cvgm/pub?start=false&loop=false&delayms=3000)
 ---
 
 ## Objective
